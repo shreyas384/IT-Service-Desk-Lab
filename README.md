@@ -15,14 +15,3 @@ A hands-on IT Service Management (ITSM) lab built in **Jira Service Management**
 3. **[Incident - Low]** Network printer showing Offline status *(Resolved via Windows Print Spooler restart)*
 4. **[Service Request - Low]** New hire Microsoft 365 & shared folder onboarding
 
-## Lab Screenshots
-*(Update the image filenames below to match the exact names of the screenshots you uploaded)*
-
-### 1. Service Desk Ticket Queue & Priorities
-![Ticket Queue](queue-screenshot.png)
-
-### 2. Incident Investigation & Resolution Notes
-![Resolved Ticket](resolved-ticket-screenshot.png)
-
-### 3. Self-Service Knowledge Base Articles
-![Knowledge Base](kb-articles-screenshot.png)
